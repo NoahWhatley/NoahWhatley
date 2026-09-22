@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Noah Whatley 👋
 
-<!--
-**NoahWhatley/NoahWhatley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer transitioning from hands-on technical/mechanical work into 
+software development, with production experience supporting JD Edwards (JDE) 
+ERP applications.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building projects in C++, Python, and JavaScript
+- Learning networking fundamentals, embedded systems concepts, and test automation
+- Preparing for Ignition Core/Gold Certification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🚧 More coming soon
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/noah-whatley-bb6a3a332/)
+- [Email](nowhatley@gmail.com)
+
